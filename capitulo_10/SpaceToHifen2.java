@@ -4,12 +4,10 @@
 
 import java.io.*;
 
-class SpaceToHifen {
+class SpaceToHifen2 {
     public static void main(String[] args)
     throws IOException {
         int i;
-        FileInputStream fin = null;
-        FileOutputStream fout = null;
 
         // Verifica se os dois arquivos foram especificados
         if(args.length != 2) {
@@ -18,11 +16,9 @@ class SpaceToHifen {
         }
 
         //Copia um arquivo e substitui os espaços por hifens
-        try {
-            // Tenta abrir os arquivos
-            fin = new FileInputStream(args[0]);
-            fout = new FileOutputStream(args[1]);
-
+        try ( FileInputStream fin = new FileInputStream(args[0]);
+              FileOutputStream fout = new FileOutputStream(args[1]))
+        {
             do {
                 i = fin.read();
                 if (i != -1) {
@@ -32,17 +28,6 @@ class SpaceToHifen {
             } while (i != -1);
         } catch (IOException exc) {
             System.out.println("I/O Exception: " + exc);
-        } finally {
-            try {
-                if (fin != null) fin.close();
-            }catch(IOException exc) {
-                System.out.println("error closing input file!");
-            }
-            try {
-                if (fout != null) fout.close();
-            } catch (IOException exc) {
-                System.out.println("error closing output file!");
-            }
         }
     }
 }

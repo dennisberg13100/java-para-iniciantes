@@ -1,5 +1,5 @@
 /*
- *  Um origrama que usa a classe Vehicle.
+ *  Um programa que usa a classe Vehicle.
  */
 
 class Vehicle {
