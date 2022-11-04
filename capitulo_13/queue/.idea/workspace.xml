@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44e4a282-bc83-491a-bc1d-07d8141e01c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/capitulo_13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoundsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenConsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenIfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WildcardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenQDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IGenQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueueFullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/StackEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/StackFullException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H5013np9pJCSIm83wySUijNDnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44e4a282-bc83-491a-bc1d-07d8141e01c8" name="Changes" comment="" />
+      <created>1667559419016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667559419016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
